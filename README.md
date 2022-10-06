@@ -1,1 +1,1 @@
-0x00 shell basics
+How to represent each of the three sets of permissions
