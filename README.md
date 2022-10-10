@@ -1,1 +1,1 @@
-Display all the lines in the file
+Write a script that reverse its input
